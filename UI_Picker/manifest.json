@@ -1,0 +1,19 @@
+{
+  "name": "UI_Picker",
+  "id": "1443126163758227801",
+  "api": "1.0.0",
+  "main": "code.js",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "documentAccess": "dynamic-page",
+  "editorType": [
+    "figma"
+  ],
+  "ui": "ui.html",
+  "networkAccess": {
+    "allowedDomains": [
+      "http://localhost:9000/"
+    ],
+    "reasoning": "For testing purpose"
+  }
+}

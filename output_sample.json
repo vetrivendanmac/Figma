@@ -1,0 +1,179 @@
+{
+    "data": {
+        "[object Object] FRAME iPhone 16 - 1": {
+            "RECTANGLE id:100:66": {
+                "RECTANGLE id: 100:66": {
+                    "RECTANGLE 100:66": {
+                        "position": {
+                            "name": "Rectangle 7",
+                            "x": 2938,
+                            "y": -5002
+                        }
+                    },
+                    "fill_value": {
+                        "type": "SOLID",
+                        "visible": true,
+                        "opacity": 1,
+                        "blendMode": "NORMAL",
+                        "color": {
+                            "r": 0.8509804010391235,
+                            "g": 0.8509804010391235,
+                            "b": 0.8509804010391235
+                        },
+                        "boundVariables": {}
+                    }
+                }
+            },
+            "RECTANGLE id:100:68": {
+                "RECTANGLE id: 100:68": {
+                    "RECTANGLE 100:68": {
+                        "position": {
+                            "name": "Rectangle 8",
+                            "x": 2938,
+                            "y": -4892
+                        }
+                    },
+                    "fill_value": {
+                        "type": "SOLID",
+                        "visible": true,
+                        "opacity": 1,
+                        "blendMode": "NORMAL",
+                        "color": {
+                            "r": 0.987500011920929,
+                            "g": 0.3511110246181488,
+                            "b": 0.3511110246181488
+                        },
+                        "boundVariables": {}
+                    }
+                }
+            },
+            "TEXT id:100:67": {
+                "TEXT id: 100:67": {
+                    "TEXT 100:67": {
+                        "position": {
+                            "name": "Button",
+                            "x": 3051,
+                            "y": -4984
+                        },
+                        "textDetails": {
+                            "name": "Button",
+                            "characters": "Button",
+                            "lineheight": {
+                                "unit": "AUTO"
+                            },
+                            "textDecoration": "NONE",
+                            "fontSize": 20,
+                            "fontFamily": "Inknut Antiqua",
+                            "fontWeight": "Regular",
+                            "lineHeight": {
+                                "unit": "AUTO"
+                            },
+                            "letterSpacing": {
+                                "unit": "PERCENT",
+                                "value": 0
+                            },
+                            "fills": {
+                                "type": "SOLID",
+                                "visible": true,
+                                "opacity": 1,
+                                "blendMode": "NORMAL",
+                                "color": {
+                                    "r": 0,
+                                    "g": 0,
+                                    "b": 0
+                                },
+                                "boundVariables": {}
+                            },
+                            "color": {
+                                "r": 0,
+                                "g": 0,
+                                "b": 0
+                            },
+                            "shadow": [],
+                            "width": 123,
+                            "height": 48,
+                            "rotation": 0,
+                            "strokes": []
+                        }
+                    },
+                    "fill_value": {
+                        "type": "SOLID",
+                        "visible": true,
+                        "opacity": 1,
+                        "blendMode": "NORMAL",
+                        "color": {
+                            "r": 0,
+                            "g": 0,
+                            "b": 0
+                        },
+                        "boundVariables": {}
+                    }
+                }
+            },
+            "TEXT id:100:69": {
+                "TEXT id: 100:69": {
+                    "TEXT 100:69": {
+                        "position": {
+                            "name": "Input text box .....",
+                            "x": 2950,
+                            "y": -4874
+                        },
+                        "textDetails": {
+                            "name": "Input text box .....",
+                            "characters": "Input text box .....",
+                            "lineheight": {
+                                "unit": "AUTO"
+                            },
+                            "textDecoration": "NONE",
+                            "fontSize": 20,
+                            "fontFamily": "Inknut Antiqua",
+                            "fontWeight": "Regular",
+                            "lineHeight": {
+                                "unit": "AUTO"
+                            },
+                            "letterSpacing": {
+                                "unit": "PERCENT",
+                                "value": 0
+                            },
+                            "fills": {
+                                "type": "SOLID",
+                                "visible": true,
+                                "opacity": 1,
+                                "blendMode": "NORMAL",
+                                "color": {
+                                    "r": 0,
+                                    "g": 0,
+                                    "b": 0
+                                },
+                                "boundVariables": {}
+                            },
+                            "color": {
+                                "r": 0,
+                                "g": 0,
+                                "b": 0
+                            },
+                            "shadow": [],
+                            "width": 318,
+                            "height": 48,
+                            "rotation": 0,
+                            "strokes": []
+                        }
+                    },
+                    "fill_value": {
+                        "type": "SOLID",
+                        "visible": true,
+                        "opacity": 1,
+                        "blendMode": "NORMAL",
+                        "color": {
+                            "r": 0,
+                            "g": 0,
+                            "b": 0
+                        },
+                        "boundVariables": {}
+                    }
+                }
+            }
+        }
+    },
+    "message": "random frame"
+}

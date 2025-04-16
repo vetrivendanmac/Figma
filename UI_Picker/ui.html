@@ -1,0 +1,9 @@
+<h2>Data Recived from code.js</h2>
+<p id="placeholder"></p>
+<script>
+window.onmessage=(event)=>{
+  const {type,message}=event.data.pluginMessage;
+  console.log("message: ",message)
+  document.getElementById("placeholder").innerText=JSON.stringify(message)
+}
+</script>

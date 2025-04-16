@@ -1,0 +1,19 @@
+{
+  "name": "data_picker_pro",
+  "id": "1440998389984892125",
+  "api": "1.0.0",
+  "main": "code.js",
+  "capabilities": ["codegen"],
+  "codegenLanguages":[{
+    "label":"Angular","value":"angular"},
+  {"label":"CSS","value":"css"},
+  {"label":"HTML","value":"HTML"}
+],
+  "documentAccess": "dynamic-page",
+  "editorType": [ "figma","dev" ],
+  "networkAccess": {
+    "allowedDomains": [
+      "none"
+    ]
+  }
+}
